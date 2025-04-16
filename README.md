@@ -16,5 +16,5 @@ breast cancer detection model training using MobileNetV2
 Is done in this file -: breast cancer detection confusion matrix 
 
 # Model Saving Step
-Is done in this file-:
+Is done in this file-: MobileNetV2_best.pth
 
